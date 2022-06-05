@@ -40,15 +40,17 @@ ___
 	a) Yes ✅
 	b) Yes. Air can be compressed ✅
 	c) Yes. Air particles can be made to fill other space. ✅
+	
 **Question 2**
 > Susan and Ana ✅
 ### Part C
-*Question 3*
+**Question 3**
 > Mario and Ana ✅
 ### Part D
 2) 
 	a) No ✅
 	b) Gas particles can spread out in all directions. ✅
+	
 **Question 4**
 > Mario and Ana ✅
 
