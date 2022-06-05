@@ -22,11 +22,11 @@ ___
 4) Carbohydrate ✅
 ___
 ## What's New (6/6)
-![[word search thingy yeah.png]]
+![[4th Quarter/Science/word search thingy yeah.png]]
 ___
 ## What's More
 ### Activity 1 (4/4)
-![[Pasted image 20220605043611.png]]
+![[4th Quarter/Science/Pasted image 20220605043611.png]]
 
 ### Assessment 1 (5/5)
 1) C ✅
