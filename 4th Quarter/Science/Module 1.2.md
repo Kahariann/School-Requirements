@@ -23,6 +23,7 @@ ___
 5) -173.15⁰C ✅
 6) 52.70 ⁰C ✅
 7) 39.85 ⁰C ✅
+
 Property | Symbol | Common Units
 ----- | ----- | -----
 Temperature ✅ | T ✅ | ⁰C, ⁰F ✅
