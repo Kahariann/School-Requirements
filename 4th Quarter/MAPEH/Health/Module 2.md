@@ -13,7 +13,7 @@ ___
 5) D  ✔
 ___
 ## Activity (10/10)
-![[Word search thingy.png]]
+![Word search thingy](https://user-images.githubusercontent.com/106929765/172150919-83c086a6-b546-49ef-af96-010cec636df7.png)
 ___
 ## Wrap Up (5/5)
 1) Social Work  ✔
