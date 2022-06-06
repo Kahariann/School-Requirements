@@ -20,5 +20,5 @@ ___
 5) C  ✔
 ___
 ## Post Test (10/10)
-![[word search thingy 3.png]]
+![word search thingy](https://user-images.githubusercontent.com/106929765/172151135-a4d4b1b3-3342-40ca-a298-840f73e1bab6.png)
 ___
